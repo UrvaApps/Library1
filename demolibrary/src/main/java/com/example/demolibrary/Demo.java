@@ -8,4 +8,9 @@ public class Demo {
     {
         Toast.makeText(context,s,Toast.LENGTH_LONG).show();
     }
+
+    public static void s1(Context context,String s)
+    {
+        Toast.makeText(context,s,Toast.LENGTH_LONG).show();
+    }
 }
